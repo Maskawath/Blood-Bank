@@ -14,4 +14,7 @@ My objective was to build an application  that can continuously provide informat
 *	People who need urget **Blood**
 
 ## 5. Sample Image:
-![](bloodbank.png)
+![](Screenshot_20200605-123003.jpg)
+![](Screenshot_20200605-123014.jpg)
+![](Screenshot_20200605-123050.jpg)
+![](Screenshot_20200605-123112.jpg)
